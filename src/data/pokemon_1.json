@@ -1,0 +1,1210 @@
+[
+  {
+    "id": 1,
+    "name": "Pokemon 1",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 1"
+  },
+  {
+    "id": 2,
+    "name": "Pokemon 2",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 2"
+  },
+  {
+    "id": 3,
+    "name": "Pokemon 3",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 3"
+  },
+  {
+    "id": 4,
+    "name": "Pokemon 4",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 4"
+  },
+  {
+    "id": 5,
+    "name": "Pokemon 5",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 5"
+  },
+  {
+    "id": 6,
+    "name": "Pokemon 6",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 6"
+  },
+  {
+    "id": 7,
+    "name": "Pokemon 7",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 7"
+  },
+  {
+    "id": 8,
+    "name": "Pokemon 8",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 8"
+  },
+  {
+    "id": 9,
+    "name": "Pokemon 9",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 9"
+  },
+  {
+    "id": 10,
+    "name": "Pokemon 10",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 10"
+  },
+  {
+    "id": 11,
+    "name": "Pokemon 11",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 11"
+  },
+  {
+    "id": 12,
+    "name": "Pokemon 12",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 12"
+  },
+  {
+    "id": 13,
+    "name": "Pokemon 13",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 13"
+  },
+  {
+    "id": 14,
+    "name": "Pokemon 14",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 14"
+  },
+  {
+    "id": 15,
+    "name": "Pokemon 15",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 15"
+  },
+  {
+    "id": 16,
+    "name": "Pokemon 16",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 16"
+  },
+  {
+    "id": 17,
+    "name": "Pokemon 17",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 17"
+  },
+  {
+    "id": 18,
+    "name": "Pokemon 18",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 18"
+  },
+  {
+    "id": 19,
+    "name": "Pokemon 19",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 19"
+  },
+  {
+    "id": 20,
+    "name": "Pokemon 20",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 20"
+  },
+  {
+    "id": 21,
+    "name": "Pokemon 21",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 21"
+  },
+  {
+    "id": 22,
+    "name": "Pokemon 22",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 22"
+  },
+  {
+    "id": 23,
+    "name": "Pokemon 23",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 23"
+  },
+  {
+    "id": 24,
+    "name": "Pokemon 24",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 24"
+  },
+  {
+    "id": 25,
+    "name": "Pokemon 25",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 25"
+  },
+  {
+    "id": 26,
+    "name": "Pokemon 26",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 26"
+  },
+  {
+    "id": 27,
+    "name": "Pokemon 27",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 27"
+  },
+  {
+    "id": 28,
+    "name": "Pokemon 28",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 28"
+  },
+  {
+    "id": 29,
+    "name": "Pokemon 29",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 29"
+  },
+  {
+    "id": 30,
+    "name": "Pokemon 30",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 30"
+  },
+  {
+    "id": 31,
+    "name": "Pokemon 31",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 31"
+  },
+  {
+    "id": 32,
+    "name": "Pokemon 32",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 32"
+  },
+  {
+    "id": 33,
+    "name": "Pokemon 33",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 33"
+  },
+  {
+    "id": 34,
+    "name": "Pokemon 34",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 34"
+  },
+  {
+    "id": 35,
+    "name": "Pokemon 35",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 35"
+  },
+  {
+    "id": 36,
+    "name": "Pokemon 36",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 36"
+  },
+  {
+    "id": 37,
+    "name": "Pokemon 37",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 37"
+  },
+  {
+    "id": 38,
+    "name": "Pokemon 38",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 38"
+  },
+  {
+    "id": 39,
+    "name": "Pokemon 39",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 39"
+  },
+  {
+    "id": 40,
+    "name": "Pokemon 40",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 40"
+  },
+  {
+    "id": 41,
+    "name": "Pokemon 41",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 41"
+  },
+  {
+    "id": 42,
+    "name": "Pokemon 42",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 42"
+  },
+  {
+    "id": 43,
+    "name": "Pokemon 43",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 43"
+  },
+  {
+    "id": 44,
+    "name": "Pokemon 44",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 44"
+  },
+  {
+    "id": 45,
+    "name": "Pokemon 45",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 45"
+  },
+  {
+    "id": 46,
+    "name": "Pokemon 46",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 46"
+  },
+  {
+    "id": 47,
+    "name": "Pokemon 47",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 47"
+  },
+  {
+    "id": 48,
+    "name": "Pokemon 48",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 48"
+  },
+  {
+    "id": 49,
+    "name": "Pokemon 49",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 49"
+  },
+  {
+    "id": 50,
+    "name": "Pokemon 50",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 50"
+  },
+  {
+    "id": 51,
+    "name": "Pokemon 51",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 51"
+  },
+  {
+    "id": 52,
+    "name": "Pokemon 52",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 52"
+  },
+  {
+    "id": 53,
+    "name": "Pokemon 53",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 53"
+  },
+  {
+    "id": 54,
+    "name": "Pokemon 54",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 54"
+  },
+  {
+    "id": 55,
+    "name": "Pokemon 55",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 55"
+  },
+  {
+    "id": 56,
+    "name": "Pokemon 56",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 56"
+  },
+  {
+    "id": 57,
+    "name": "Pokemon 57",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 57"
+  },
+  {
+    "id": 58,
+    "name": "Pokemon 58",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 58"
+  },
+  {
+    "id": 59,
+    "name": "Pokemon 59",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 59"
+  },
+  {
+    "id": 60,
+    "name": "Pokemon 60",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 60"
+  },
+  {
+    "id": 61,
+    "name": "Pokemon 61",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 61"
+  },
+  {
+    "id": 62,
+    "name": "Pokemon 62",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 62"
+  },
+  {
+    "id": 63,
+    "name": "Pokemon 63",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 63"
+  },
+  {
+    "id": 64,
+    "name": "Pokemon 64",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 64"
+  },
+  {
+    "id": 65,
+    "name": "Pokemon 65",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 65"
+  },
+  {
+    "id": 66,
+    "name": "Pokemon 66",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 66"
+  },
+  {
+    "id": 67,
+    "name": "Pokemon 67",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 67"
+  },
+  {
+    "id": 68,
+    "name": "Pokemon 68",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 68"
+  },
+  {
+    "id": 69,
+    "name": "Pokemon 69",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 69"
+  },
+  {
+    "id": 70,
+    "name": "Pokemon 70",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 70"
+  },
+  {
+    "id": 71,
+    "name": "Pokemon 71",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 71"
+  },
+  {
+    "id": 72,
+    "name": "Pokemon 72",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 72"
+  },
+  {
+    "id": 73,
+    "name": "Pokemon 73",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 73"
+  },
+  {
+    "id": 74,
+    "name": "Pokemon 74",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 74"
+  },
+  {
+    "id": 75,
+    "name": "Pokemon 75",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 75"
+  },
+  {
+    "id": 76,
+    "name": "Pokemon 76",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 76"
+  },
+  {
+    "id": 77,
+    "name": "Pokemon 77",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 77"
+  },
+  {
+    "id": 78,
+    "name": "Pokemon 78",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 78"
+  },
+  {
+    "id": 79,
+    "name": "Pokemon 79",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 79"
+  },
+  {
+    "id": 80,
+    "name": "Pokemon 80",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 80"
+  },
+  {
+    "id": 81,
+    "name": "Pokemon 81",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 81"
+  },
+  {
+    "id": 82,
+    "name": "Pokemon 82",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 82"
+  },
+  {
+    "id": 83,
+    "name": "Pokemon 83",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 83"
+  },
+  {
+    "id": 84,
+    "name": "Pokemon 84",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 84"
+  },
+  {
+    "id": 85,
+    "name": "Pokemon 85",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 85"
+  },
+  {
+    "id": 86,
+    "name": "Pokemon 86",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 86"
+  },
+  {
+    "id": 87,
+    "name": "Pokemon 87",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 87"
+  },
+  {
+    "id": 88,
+    "name": "Pokemon 88",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 88"
+  },
+  {
+    "id": 89,
+    "name": "Pokemon 89",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 89"
+  },
+  {
+    "id": 90,
+    "name": "Pokemon 90",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 90"
+  },
+  {
+    "id": 91,
+    "name": "Pokemon 91",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 91"
+  },
+  {
+    "id": 92,
+    "name": "Pokemon 92",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 92"
+  },
+  {
+    "id": 93,
+    "name": "Pokemon 93",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 93"
+  },
+  {
+    "id": 94,
+    "name": "Pokemon 94",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 94"
+  },
+  {
+    "id": 95,
+    "name": "Pokemon 95",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 95"
+  },
+  {
+    "id": 96,
+    "name": "Pokemon 96",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 96"
+  },
+  {
+    "id": 97,
+    "name": "Pokemon 97",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 97"
+  },
+  {
+    "id": 98,
+    "name": "Pokemon 98",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 98"
+  },
+  {
+    "id": 99,
+    "name": "Pokemon 99",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 99"
+  },
+  {
+    "id": 100,
+    "name": "Pokemon 100",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 100"
+  },
+  {
+    "id": 101,
+    "name": "Pokemon 101",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 101"
+  },
+  {
+    "id": 102,
+    "name": "Pokemon 102",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 102"
+  },
+  {
+    "id": 103,
+    "name": "Pokemon 103",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 103"
+  },
+  {
+    "id": 104,
+    "name": "Pokemon 104",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 104"
+  },
+  {
+    "id": 105,
+    "name": "Pokemon 105",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 105"
+  },
+  {
+    "id": 106,
+    "name": "Pokemon 106",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 106"
+  },
+  {
+    "id": 107,
+    "name": "Pokemon 107",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 107"
+  },
+  {
+    "id": 108,
+    "name": "Pokemon 108",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 108"
+  },
+  {
+    "id": 109,
+    "name": "Pokemon 109",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 109"
+  },
+  {
+    "id": 110,
+    "name": "Pokemon 110",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 110"
+  },
+  {
+    "id": 111,
+    "name": "Pokemon 111",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 111"
+  },
+  {
+    "id": 112,
+    "name": "Pokemon 112",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 112"
+  },
+  {
+    "id": 113,
+    "name": "Pokemon 113",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 113"
+  },
+  {
+    "id": 114,
+    "name": "Pokemon 114",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 114"
+  },
+  {
+    "id": 115,
+    "name": "Pokemon 115",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 115"
+  },
+  {
+    "id": 116,
+    "name": "Pokemon 116",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 116"
+  },
+  {
+    "id": 117,
+    "name": "Pokemon 117",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 117"
+  },
+  {
+    "id": 118,
+    "name": "Pokemon 118",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 118"
+  },
+  {
+    "id": 119,
+    "name": "Pokemon 119",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 119"
+  },
+  {
+    "id": 120,
+    "name": "Pokemon 120",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 120"
+  },
+  {
+    "id": 121,
+    "name": "Pokemon 121",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 121"
+  },
+  {
+    "id": 122,
+    "name": "Pokemon 122",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 122"
+  },
+  {
+    "id": 123,
+    "name": "Pokemon 123",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 123"
+  },
+  {
+    "id": 124,
+    "name": "Pokemon 124",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 124"
+  },
+  {
+    "id": 125,
+    "name": "Pokemon 125",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 125"
+  },
+  {
+    "id": 126,
+    "name": "Pokemon 126",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 126"
+  },
+  {
+    "id": 127,
+    "name": "Pokemon 127",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 127"
+  },
+  {
+    "id": 128,
+    "name": "Pokemon 128",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 128"
+  },
+  {
+    "id": 129,
+    "name": "Pokemon 129",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 129"
+  },
+  {
+    "id": 130,
+    "name": "Pokemon 130",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 130"
+  },
+  {
+    "id": 131,
+    "name": "Pokemon 131",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 131"
+  },
+  {
+    "id": 132,
+    "name": "Pokemon 132",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 132"
+  },
+  {
+    "id": 133,
+    "name": "Pokemon 133",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 133"
+  },
+  {
+    "id": 134,
+    "name": "Pokemon 134",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 134"
+  },
+  {
+    "id": 135,
+    "name": "Pokemon 135",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 135"
+  },
+  {
+    "id": 136,
+    "name": "Pokemon 136",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 136"
+  },
+  {
+    "id": 137,
+    "name": "Pokemon 137",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 137"
+  },
+  {
+    "id": 138,
+    "name": "Pokemon 138",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 138"
+  },
+  {
+    "id": 139,
+    "name": "Pokemon 139",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 139"
+  },
+  {
+    "id": 140,
+    "name": "Pokemon 140",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 140"
+  },
+  {
+    "id": 141,
+    "name": "Pokemon 141",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 141"
+  },
+  {
+    "id": 142,
+    "name": "Pokemon 142",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 142"
+  },
+  {
+    "id": 143,
+    "name": "Pokemon 143",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 143"
+  },
+  {
+    "id": 144,
+    "name": "Pokemon 144",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 144"
+  },
+  {
+    "id": 145,
+    "name": "Pokemon 145",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 145"
+  },
+  {
+    "id": 146,
+    "name": "Pokemon 146",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 146"
+  },
+  {
+    "id": 147,
+    "name": "Pokemon 147",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 147"
+  },
+  {
+    "id": 148,
+    "name": "Pokemon 148",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 148"
+  },
+  {
+    "id": 149,
+    "name": "Pokemon 149",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 149"
+  },
+  {
+    "id": 150,
+    "name": "Pokemon 150",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 150"
+  },
+  {
+    "id": 151,
+    "name": "Pokemon 151",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "types": [],
+    "color": "#CCCCCC",
+    "description": "Description for Pokemon 151"
+  }
+]

@@ -154,7 +154,7 @@
     "name": "Charizard",
     "genus": "Flame Pokémon",
     "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/6.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "types": ["Fire", "Flying"],
     "abilities": [
       {
@@ -184,7 +184,7 @@
     "name": "Squirtle",
     "genus": "Tiny Turtle Pokémon",
     "description": "Shoots water at prey while in the water. Withdraws into its shell when in danger.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/7.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
     "types": ["Water"],
     "abilities": [
       {
@@ -214,7 +214,7 @@
     "name": "Wartortle",
     "genus": "Turtle Pokémon",
     "description": "When tapped, this POKéMON will pull in its head, but its tail will still stick out a little bit.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/8.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
     "types": ["Water"],
     "abilities": [
       {
@@ -244,7 +244,7 @@
     "name": "Blastoise",
     "genus": "Shellfish Pokémon",
     "description": "It deliberately makes itself heavy so it can withstand the recoil of the water jets it fires.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/9.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "types": ["Water"],
     "abilities": [
       {
@@ -274,7 +274,7 @@
     "name": "Caterpie",
     "genus": "Worm Pokémon",
     "description": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/10.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "types": ["Bug"],
     "abilities": [
       {
@@ -328,7 +328,7 @@
     "name": "Metapod",
     "genus": "Cocoon Pokémon",
     "description": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/11.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": ["Bug"],
     "abilities": [
       {
@@ -376,7 +376,7 @@
     "name": "Butterfree",
     "genus": "Butterfly Pokémon",
     "description": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/12.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
     "types": ["Bug", "Flying"],
     "abilities": [
       {
@@ -423,7 +423,7 @@
     "name": "Weedle",
     "genus": "Hairy Bug Pokémon",
     "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/13.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "types": ["Bug", "Poison"],
     "abilities": [
       {
@@ -477,7 +477,7 @@
     "name": "Kakuna",
     "genus": "Cocoon Pokémon",
     "description": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/14.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "types": ["Bug", "Poison"],
     "abilities": [
       {
@@ -525,7 +525,7 @@
     "name": "Beedrill",
     "genus": "Poison Bee Pokémon",
     "description": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/15.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "types": ["Bug", "Poison"],
     "abilities": [
       {
@@ -570,7 +570,7 @@
     "name": "Pidgey",
     "genus": "Tiny Bird Pokémon",
     "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/16.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "types": ["Normal", "Flying"],
     "abilities": [
       {
@@ -636,7 +636,7 @@
     "name": "Pidgeotto",
     "genus": "Bird Pokémon",
     "description": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/17.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": ["Normal", "Flying"],
     "abilities": [
       {
@@ -693,7 +693,7 @@
     "name": "Pidgeot",
     "genus": "Bird Pokémon",
     "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/18.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "types": ["Normal", "Flying"],
     "abilities": [
       {
@@ -728,7 +728,7 @@
     "name": "Rattata",
     "genus": "Mouse Pokémon",
     "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/19.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
     "types": ["Normal"],
     "abilities": [
       {
@@ -803,7 +803,7 @@
     "name": "Raticate",
     "genus": "Mouse Pokémon",
     "description": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/20.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
     "types": ["Normal"],
     "abilities": [
       {
@@ -868,7 +868,7 @@
     "name": "Spearow",
     "genus": "Tiny Bird Pokémon",
     "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/21.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
     "types": ["Normal", "Flying"],
     "abilities": [
       {
@@ -932,7 +932,7 @@
     "name": "Fearow",
     "genus": "Beak Pokémon",
     "description": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/22.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": ["Normal", "Flying"],
     "abilities": [
       {
@@ -986,7 +986,7 @@
     "name": "Ekans",
     "genus": "Snake Pokémon",
     "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/23.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1036,7 +1036,7 @@
     "name": "Arbok",
     "genus": "Cobra Pokémon",
     "description": "It is rumored that the ferocious warning markings on its belly differ from area to area.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/24.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1083,7 +1083,7 @@
     "name": "Pikachu",
     "genus": "Mouse Pokémon",
     "description": "When several of these POKéMON gather, their electricity could build and cause lightning storms.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/25.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
     "types": ["Electric"],
     "abilities": [
       {
@@ -1126,7 +1126,7 @@
     "name": "Raichu",
     "genus": "Mouse Pokémon",
     "description": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/26.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
     "types": ["Electric"],
     "abilities": [
       {
@@ -1156,7 +1156,7 @@
     "name": "Sandshrew",
     "genus": "Mouse Pokémon",
     "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/27.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "types": ["Ground"],
     "abilities": [
       {
@@ -1202,7 +1202,7 @@
     "name": "Sandslash",
     "genus": "Mouse Pokémon",
     "description": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/28.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
     "types": ["Ground"],
     "abilities": [
       {
@@ -1244,7 +1244,7 @@
     "name": "Nidoran♀",
     "genus": "Poison Pin Pokémon",
     "description": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/29.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1290,7 +1290,7 @@
     "name": "Nidorina",
     "genus": "Poison Pin Pokémon",
     "description": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/30.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1335,7 +1335,7 @@
     "name": "Nidoqueen",
     "genus": "Drill Pokémon",
     "description": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/31.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
     "types": ["Poison", "Ground"],
     "abilities": [
       {
@@ -1370,7 +1370,7 @@
     "name": "Nidoran♂",
     "genus": "Poison Pin Pokémon",
     "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/32.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1416,7 +1416,7 @@
     "name": "Nidorino",
     "genus": "Poison Pin Pokémon",
     "description": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/33.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "types": ["Poison"],
     "abilities": [
       {
@@ -1461,7 +1461,7 @@
     "name": "Nidoking",
     "genus": "Drill Pokémon",
     "description": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/34.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": ["Poison", "Ground"],
     "abilities": [
       {
@@ -1496,7 +1496,7 @@
     "name": "Clefairy",
     "genus": "Fairy Pokémon",
     "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/35.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
     "types": ["Fairy"],
     "abilities": [
       {
@@ -1537,7 +1537,7 @@
     "name": "Clefable",
     "genus": "Fairy Pokémon",
     "description": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/36.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
     "types": ["Fairy"],
     "abilities": [
       {
@@ -1572,7 +1572,7 @@
     "name": "Vulpix",
     "genus": "Fox Pokémon",
     "description": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/37.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "types": ["Fire"],
     "abilities": [
       {
@@ -1613,7 +1613,7 @@
     "name": "Ninetales",
     "genus": "Fox Pokémon",
     "description": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/38.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "types": ["Fire"],
     "abilities": [
       {
@@ -1643,7 +1643,7 @@
     "name": "Jigglypuff",
     "genus": "Balloon Pokémon",
     "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/39.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "types": ["Normal", "Fairy"],
     "abilities": [
       {
@@ -1695,7 +1695,7 @@
     "name": "Wigglytuff",
     "genus": "Balloon Pokémon",
     "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/40.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
     "types": ["Normal", "Fairy"],
     "abilities": [
       {
@@ -1736,7 +1736,7 @@
     "name": "Zubat",
     "genus": "Bat Pokémon",
     "description": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/41.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
     "types": ["Poison", "Flying"],
     "abilities": [
       {
@@ -1818,7 +1818,7 @@
     "name": "Golbat",
     "genus": "Bat Pokémon",
     "description": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/42.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
     "types": ["Poison", "Flying"],
     "abilities": [
       {
@@ -1886,7 +1886,7 @@
     "name": "Oddish",
     "genus": "Weed Pokémon",
     "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/43.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
     "types": ["Grass", "Poison"],
     "abilities": [
       {
@@ -1941,7 +1941,7 @@
     "name": "Gloom",
     "genus": "Weed Pokémon",
     "description": "It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/44.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
     "types": ["Grass", "Poison"],
     "abilities": [
       {
@@ -1991,7 +1991,7 @@
     "name": "Vileplume",
     "genus": "Flower Pokémon",
     "description": "It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/45.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
     "types": ["Grass", "Poison"],
     "abilities": [
       {
@@ -2021,7 +2021,7 @@
     "name": "Paras",
     "genus": "Mushroom Pokémon",
     "description": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/46.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "types": ["Bug", "Grass"],
     "abilities": [
       {
@@ -2056,7 +2056,7 @@
     "name": "Parasect",
     "genus": "Mushroom Pokémon",
     "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/47.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
     "types": ["Bug", "Grass"],
     "abilities": [
       {
@@ -2091,7 +2091,7 @@
     "name": "Venonat",
     "genus": "Insect Pokémon",
     "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/48.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": ["Bug", "Poison"],
     "abilities": [
       {
@@ -2143,7 +2143,7 @@
     "name": "Venomoth",
     "genus": "Poison Moth Pokémon",
     "description": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/49.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
     "types": ["Bug", "Poison"],
     "abilities": [
       {
@@ -2193,7 +2193,7 @@
     "name": "Diglett",
     "genus": "Mole Pokémon",
     "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
-    "imageUrl": "https://pub-460ada4f152c4135a7ec0881a2cb1330.r2.dev/50.webp",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
     "types": ["Ground"],
     "abilities": [
       {

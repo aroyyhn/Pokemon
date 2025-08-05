@@ -9,7 +9,7 @@ function PokemonItem({ pokemon }) {
         backgroundColor: `${pokemon.color}`,
       }}
     >
-      <img src={pokemon.imageUrl} alt={pokemon.name} width={250} />
+      <img src={pokemon.imageUrl} alt={pokemon.name} width={200} />
       <h1>{pokemon.name}</h1>
       <div className="types-container">
         {pokemon.types.map((item, index) => (
